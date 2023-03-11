@@ -23,5 +23,7 @@ En el repositorio se encuentran:
 -el modelo CAD de la herramienta, aunque es tan sólo por propósitos visuales, debido a que no fue utilizado en las simulaciones del ejercicio.
 ### conclusiones
 Se recomienda para una próxima práctica el uso de una herramienta con un resorte incluido, debido a que permite mayor flexibilidad al momento de mantener la posición en los tableros, que no se encuentran completamente en el mismo plano.
+
 Modelando la herramienta en CAD y usando un angulo de inclinacion en la herramienta evitamos que los ejes se alineen y presenten errores de singularidad al simular.
+
 Para esta practica no era necesario tener una herramienta modelada en 3D dado que en caso de error era dificil reemplazar por eso usamos un soporte en madera y un codo de 1/2 pulgada para que en caso de ruptura fuera facilmente reemplazable.
