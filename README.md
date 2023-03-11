@@ -2,7 +2,9 @@
 
 ### Nombres
 -Jaime Andrés Sánchez Peralta
+
 -Juan José Rojas Álvarez
+
 -Fabian Stiven Abreo Cubides
 
 ### Solución del problema
