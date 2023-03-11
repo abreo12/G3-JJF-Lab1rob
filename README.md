@@ -4,7 +4,7 @@ El objetivo del laboratorio es de representar las letras iniciales de los nombre
 La solución planteada consiste en una herramienta con un ángulo de 45° para evitar problemas por un posible alineamiento de ejes al momento de mover el brazo, se creó un modelo de las letras a escribir en Autodesk Inventor y se exportó al ambiente virtual de Robot Studio. También se acercó el brazo robótico mediante un movimiento de juntas a una posición cercana a las letras previamente mencionadas para evitar dicho alineamiento o singularidad en en movimiento de acercamiento. Las rutas diseñadas para las letras consisten de un offset en su posición inicial, seguido de la trayectoria que rodea las letras, para volver a un mismo offset y poder dirigirse a la siguiente letra sin rayar el tablero. Se diseñaron dos rutas distintas, una en x(+)y(+), rotadas respecto al centro y otra en x(+)y(-), siendo esta segunda más cercana al 0 en y.
 
 El resultado del laboratorio, fue el siguiente:
-!drive.google.com/file/d/1lQ5JUMA3xT-8_DehqiqwM6muVTgrXkPd/view?usp=share_link
+![drive.google.com/file/d/1lQ5JUMA3xT-8_DehqiqwM6muVTgrXkPd/view?usp=share_link]
 
 En el repositorio se encuentran: 
 
